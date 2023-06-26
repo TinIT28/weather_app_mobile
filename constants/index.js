@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export const apiKey = "3a03cb655f6e4e26a8051848232606";
 
 export const weatherImages = {
